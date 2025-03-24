@@ -1,0 +1,25 @@
+{
+  "name": "challenge-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathandurnerin/Challenge-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathandurnerin/Challenge-Node/issues"
+  },
+  "homepage": "https://github.com/nathandurnerin/Challenge-Node#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cowsay": "^1.6.0",
+    "dotenv": "^16.4.7"
+  }
+}
